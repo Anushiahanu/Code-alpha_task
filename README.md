@@ -1,6 +1,3 @@
-Got it 👍 You want a README.md content for your Hangman program in Python that you can post on GitHub. Here’s a clean, well-structured template for your project:
-
-
 🚀 Features
 
 Word guessing with limited attempts
